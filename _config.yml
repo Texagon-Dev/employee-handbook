@@ -1,0 +1,17 @@
+title: "Texagon Handbook"
+description: "Company’s policies, benefits, and guidelines."
+theme: just-the-docs
+
+url: ""
+
+aux_links:
+  Texagon: //texagon.io
+  ERP: //erp.texagon.io
+aux_links_new_tab: true
+color_scheme: dark
+just_the_docs:
+  #logo: "/assets/images/logo.png" # Add a logo if desired
+  color_scheme: "light" # Choose "light" or "dark"
+  search:
+    enabled: true
+    placeholder: "Search the handbook..."
