@@ -27,167 +27,230 @@
     
     "relUrl": "/code_of_ethics.html#conclusion"
   },"4": {
+    "doc": "ERP - Documentation",
+    "title": "Frappe HR Documentation for Texagon ERP",
+    "content": "Welcome to the Frappe HR documentation for Texagon ERP. This guide will help employees navigate the HR module within the Texagon ERP system (accessible at erp.texagon.io). ",
+    "url": "/erp.html#frappe-hr-documentation-for-texagon-erp",
+    
+    "relUrl": "/erp.html#frappe-hr-documentation-for-texagon-erp"
+  },"5": {
+    "doc": "ERP - Documentation",
+    "title": "1. Logging into the System",
+    "content": ". | Open your browser and navigate to erp.texagon.io. | Enter your login credentials (Username and Password). | Click Login to access the dashboard. | . ",
+    "url": "/erp.html#1-logging-into-the-system",
+    
+    "relUrl": "/erp.html#1-logging-into-the-system"
+  },"6": {
+    "doc": "ERP - Documentation",
+    "title": "2. Checking In and Checking Out",
+    "content": "Employees must check in and check out using the ERP system, as this will be responsible for recording your attendance: . | Go to HR &gt; Shift &amp; Attendance &gt; Employee Checkin. | Click Add Employee Checkin | Change Logtype to Check-in when you start your work. | Change Logtype to Check-out when you finish your work. | Click Fetch Geolocation and click Save | Your attendance record will be updated automatically after a while. | . ",
+    "url": "/erp.html#2-checking-in-and-checking-out",
+    
+    "relUrl": "/erp.html#2-checking-in-and-checking-out"
+  },"7": {
+    "doc": "ERP - Documentation",
+    "title": "3. Creating a Leave Request",
+    "content": "To apply for leave: . | Navigate to HR &gt; Leaves &gt; Leaves Application. | Click on Add Leave Application. | Select the leave type (e.g., Casual Leave, Sick Leave, Leave without Pay). | Choose the start and end date of your leave. | Add any relevant notes (optional). | Click Submit for approval. | . Once submitted, the leave request will be sent to your manager for approval. ",
+    "url": "/erp.html#3-creating-a-leave-request",
+    
+    "relUrl": "/erp.html#3-creating-a-leave-request"
+  },"8": {
+    "doc": "ERP - Documentation",
+    "title": "4. Viewing Attendance Records",
+    "content": "Employees can review their attendance records by: . | Going to HR &gt; Shift &amp; Attendance &gt; Attendance. | Searching for their attendance records by entering their name or employee ID. | Viewing their attendance status (Present, Absent, Half-day, or Work-from-home). | . ",
+    "url": "/erp.html#4-viewing-attendance-records",
+    
+    "relUrl": "/erp.html#4-viewing-attendance-records"
+  },"9": {
+    "doc": "ERP - Documentation",
+    "title": "5. Viewing Payslips",
+    "content": "To view and download payslips: . | Navigate to Payroll &gt; Salary Slip. | Locate the payslip for the desired month. | Click View to see the breakdown of salary, deductions, and net pay. | Click Download to save a copy of your payslip. | . ",
+    "url": "/erp.html#5-viewing-payslips",
+    
+    "relUrl": "/erp.html#5-viewing-payslips"
+  },"10": {
+    "doc": "ERP - Documentation",
+    "title": "6. User Profile vs. Employee Profile",
+    "content": ". | User Profile: This is linked to system access and permissions. It includes login credentials, email ID, and role-based access controls. Users | Employee Profile: This contains personal and job-related details, such as designation, department, salary, and contact information. HR &gt; Employee | . ",
+    "url": "/erp.html#6-user-profile-vs-employee-profile",
+    
+    "relUrl": "/erp.html#6-user-profile-vs-employee-profile"
+  },"11": {
+    "doc": "ERP - Documentation",
+    "title": "7. Updating Employee Profile Information",
+    "content": "To update your employee profile: . | Navigate to HR &gt; Employee. | Click on your profile. | Update necessary details, including: . | Personal Information (Name, Date of Birth, Contact Details) | Bank Details (For Salary Processing) | Emergency Contact Information | . | Click Save to update your information. | . For any issues or assistance, please contact your HR administrator at Texagon. This documentation provides a structured guide to handling essential HR functions in the Texagon ERP system. If you require additional guidance, please refer to the HR department for further support. ",
+    "url": "/erp.html#7-updating-employee-profile-information",
+    
+    "relUrl": "/erp.html#7-updating-employee-profile-information"
+  },"12": {
+    "doc": "ERP - Documentation",
+    "title": "ERP - Documentation",
+    "content": " ",
+    "url": "/erp.html",
+    
+    "relUrl": "/erp.html"
+  },"13": {
     "doc": "Welcome",
     "title": "Welcome to Texagon’s Employee Handbook",
     "content": "This handbook contains everything you need to know about working at Texagon. Use the navigation sidebar to explore the sections. ",
     "url": "/#welcome-to-texagons-employee-handbook",
     
     "relUrl": "/#welcome-to-texagons-employee-handbook"
-  },"5": {
+  },"14": {
     "doc": "Welcome",
     "title": "Welcome",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"6": {
+  },"15": {
     "doc": "Leave Policy",
     "title": "Leaves Policy",
     "content": " ",
     "url": "/leave_policy.html#leaves-policy",
     
     "relUrl": "/leave_policy.html#leaves-policy"
-  },"7": {
+  },"16": {
     "doc": "Leave Policy",
     "title": "Leave Management",
     "content": "We trust our team to act responsibly and be accountable for their actions. Leaves can be taken as needed, but they must be pre-planned, structured, and approved by the manager in advance, except in cases of emergencies. | Paid Leaves: . | Each full-time employee is entitled to 5 paid casual leaves and 8 paid sick leaves per calendar year. | The calendar year for all leave categories runs from January to December. | Casual leaves are accrued on a pro-rata basis, at 0.42 days per month (calculated as 5 days divided by 12 months). | Sick leaves are accrued on a pro-rata basis, at 0.67 days per month (calculated as 8 days divided by 12 months). | Leave entitlement is calculated based on the month and date of employment start within the given year. | Leaves do not carry over to the next year. | . | Leave Request Procedure: . | Every leave must be requested at least one week in advance; otherwise, it will not be approved. | Leave requests made just one or two days prior will not be accepted, except in emergencies. | Each team member must obtain approval from their reporting head, project manager, HR, and other relevant team or project members. | Leave requests should be submitted via email and approved by the designated individuals in the proper format. | . | Accrued Leaves: . | Leaves can only be taken from the earned balance at any given time, as they are accrued monthly. | If the requested leaves exceed the earned balance, approval will depend on project and team needs, as well as management’s discretion. Extra leaves may be taken as unpaid, depending on the business situation. | . | Casual Leave Approval: . | Approval must be obtained from the relevant supervisor or project manager before HR can give final approval. | Taking leave in advance from next month’s allotment is at HR’s discretion, based on individual performance and the current business situation. | . | . a. Casual Leaves . Each team member is entitled to 5 paid casual leaves per calendar year, to be used for emergencies or unforeseen circumstances. | Casual leaves are accrued on a pro-rata basis, meaning 0.42 days per month (calculated as 5 days divided by 12 months). | Casual leave requests must be submitted via email with at least one full day’s notice or before the workday begins. | For leave longer than one day, requests should be made at least two weeks in advance. | Proof of the emergency or circumstance is required to approve leave. | Approval is subject to the team’s needs and management’s discretion. | Leave requests made within a shorter notice period may not be approved unless deemed necessary by the manager or HR. | . b. Sick Leaves . Each team member is entitled to 8 paid sick leaves per calendar year. | Sick leaves are accrued on a pro-rata basis, meaning 0.67 days per month (calculated as 8 days divided by 12 months). | Sick leave requests must be submitted via email at least one full day before the leave or by 08:00 AM on the day of absence. | If three or more sick days are requested, a doctor’s note is required. | Failure to provide necessary documentation may result in unpaid leave or denial of the request. | All relevant team members, HR, and the team lead/supervisors must be informed of the situation. | Failure to follow this procedure may result in disciplinary actions, including deductions from leave balances, unpaid leave, or, in extreme cases, termination of employment due to repeated violations of the leave policy. | . c. Unpaid Leaves . | Unpaid leaves are allowed if business operations are not affected. These leaves require prior approval from the management. | Employers reserve the right to reject leave applications if absence would negatively impact business operations. | . Note . These guidelines, policies, and procedures are designed to ensure consistency and fairness in all processes, ensuring that every active team member is treated equally in accordance with Texagon’s established policies. At Texagon, we are committed to maintaining a workplace free from discrimination, while implementing an efficient workflow system. If any team member has a specific or unique query, they are encouraged to reach out to the HR representative for assistance. This document has been approved and published by Texagon’s management and may be updated or modified as needed, at the discretion of the management. ",
     "url": "/leave_policy.html#leave-management",
     
     "relUrl": "/leave_policy.html#leave-management"
-  },"8": {
+  },"17": {
     "doc": "Leave Policy",
     "title": "Leave Policy",
     "content": " ",
     "url": "/leave_policy.html",
     
     "relUrl": "/leave_policy.html"
-  },"9": {
+  },"18": {
     "doc": "Team Evaluation & Feedback",
     "title": "Texagon Team Evaluation Policy",
     "content": " ",
     "url": "/team-evaluation.html#texagon-team-evaluation-policy",
     
     "relUrl": "/team-evaluation.html#texagon-team-evaluation-policy"
-  },"10": {
+  },"19": {
     "doc": "Team Evaluation & Feedback",
     "title": "Sample Document",
     "content": "The sample document can be access here. (Sample Document) . ",
     "url": "/team-evaluation.html#sample-document",
     
     "relUrl": "/team-evaluation.html#sample-document"
-  },"11": {
+  },"20": {
     "doc": "Team Evaluation & Feedback",
     "title": "Purpose",
     "content": "Texagon is committed to continuous improvement and professional growth. The Team Evaluation Policy ensures that every project concludes with a structured assessment of team performance, fostering a culture of learning and excellence. ",
     "url": "/team-evaluation.html#purpose",
     
     "relUrl": "/team-evaluation.html#purpose"
-  },"12": {
+  },"21": {
     "doc": "Team Evaluation & Feedback",
     "title": "Scope",
     "content": "This policy applies to all project teams at Texagon. Evaluations are conducted by the Team Lead and Project Manager upon project completion. ",
     "url": "/team-evaluation.html#scope",
     
     "relUrl": "/team-evaluation.html#scope"
-  },"13": {
+  },"22": {
     "doc": "Team Evaluation & Feedback",
     "title": "Evaluation Process",
     "content": ". | Timing: Evaluations occur at the end of each project before final closure. | Participants: The Team Lead and Project Manager separately assess team performance. | Method: A standardized evaluation document is completed for each team. | . ",
     "url": "/team-evaluation.html#evaluation-process",
     
     "relUrl": "/team-evaluation.html#evaluation-process"
-  },"14": {
+  },"23": {
     "doc": "Team Evaluation & Feedback",
     "title": "Evaluation Criteria",
     "content": "The evaluation document will include the following key sections: . 1. Strengths . | Identify key skills and competencies demonstrated by the team. | Highlight instances of effective collaboration, problem-solving, and technical excellence. | Acknowledge outstanding contributions by individuals and the team as a whole. | . 2. Areas for Improvement . | Identify gaps in skills, knowledge, or processes that affected the project. | Highlight specific challenges that impacted performance and suggest ways to overcome them. | Address any recurring issues that require attention for future projects. | . 3. Suggestions for Growth . | Recommend training, workshops, or mentorship programs to improve skills. | Suggest process improvements for better efficiency and productivity. | Encourage knowledge-sharing initiatives within the team. | . 4. General Notes . | Capture additional observations not covered in the above sections. | Include feedback on project-specific challenges, client interactions, or technical hurdles. | Provide any relevant insights that could benefit future projects. | . ",
     "url": "/team-evaluation.html#evaluation-criteria",
     
     "relUrl": "/team-evaluation.html#evaluation-criteria"
-  },"15": {
+  },"24": {
     "doc": "Team Evaluation & Feedback",
     "title": "Review &amp; Action Plan",
     "content": ". | The completed evaluation document is reviewed by senior management. | Actionable insights are used to refine training programs and project workflows. | Teams are encouraged to discuss feedback in a constructive manner. | . ",
     "url": "/team-evaluation.html#review--action-plan",
     
     "relUrl": "/team-evaluation.html#review--action-plan"
-  },"16": {
+  },"25": {
     "doc": "Team Evaluation & Feedback",
     "title": "Impact on Employee Growth",
     "content": ". | The evaluation results will be used to determine increments, bonuses, promotions, and long-term career growth within the company. | Performance assessments will influence an employee’s future at Texagon, ensuring fair recognition and reward for contributions. | Constructive feedback will help employees align with the company’s expectations and professional development goals. | . ",
     "url": "/team-evaluation.html#impact-on-employee-growth",
     
     "relUrl": "/team-evaluation.html#impact-on-employee-growth"
-  },"17": {
+  },"26": {
     "doc": "Team Evaluation & Feedback",
     "title": "Confidentiality &amp; Transparency",
     "content": ". | Evaluation documents are confidential and accessible only to relevant stakeholders. | Feedback should be objective, constructive, and aimed at team growth. | . Texagon is committed to fostering a positive and productive work environment through structured evaluations that drive continuous improvement. This policy ensures that every project contributes to the professional development of our teams and the overall success of our company. ",
     "url": "/team-evaluation.html#confidentiality--transparency",
     
     "relUrl": "/team-evaluation.html#confidentiality--transparency"
-  },"18": {
+  },"27": {
     "doc": "Team Evaluation & Feedback",
     "title": "Team Evaluation & Feedback",
     "content": " ",
     "url": "/team-evaluation.html",
     
     "relUrl": "/team-evaluation.html"
-  },"19": {
+  },"28": {
     "doc": "Office Timing Policy",
     "title": "Office Timing Policy",
     "content": " ",
     "url": "/timing-policy.html",
     
     "relUrl": "/timing-policy.html"
-  },"20": {
+  },"29": {
     "doc": "Office Timing Policy",
     "title": "Purpose",
     "content": "This policy establishes clear working hours and ensures adequate provisions for lunch and prayer breaks during office hours to accommodate employees’ needs. Policy Effective Date: 1st February 2025 . ",
     "url": "/timing-policy.html#purpose",
     
     "relUrl": "/timing-policy.html#purpose"
-  },"21": {
+  },"30": {
     "doc": "Office Timing Policy",
     "title": "Office Hours",
     "content": ". | Regular Working Hours: 10:00 AM to 7:00 PM | Total Work Duration: 9 hours (including breaks) | . ",
     "url": "/timing-policy.html#office-hours",
     
     "relUrl": "/timing-policy.html#office-hours"
-  },"22": {
+  },"31": {
     "doc": "Office Timing Policy",
     "title": "Break Schedule",
     "content": "To ensure productivity and accommodate personal needs, the following breaks will be observed: . Lunch Break . | Duration: 1 hour | Timing: 1:00 PM to 2:00 PM | . Prayer Breaks . | Zuhr Prayer Break: . | Duration: 15 minutes | Timing: Around 1:15 PM to 1:30 PM (adjustable based on prayer time) | . | Asar Prayer Break: . | Duration: 15 minutes | Timing: Around 4:15 PM to 4:30 PM (adjustable based on prayer time) | . | Maghrib Prayer Break: . | Duration: 10 minutes | Timing: Around sunset, approximately 6:00 PM to 6:10 PM (adjustable based on prayer time) | . | . ",
     "url": "/timing-policy.html#break-schedule",
     
     "relUrl": "/timing-policy.html#break-schedule"
-  },"23": {
+  },"32": {
     "doc": "Office Timing Policy",
     "title": "Break Guidelines",
     "content": ". | Adherence: Employees are encouraged to adhere strictly to the allocated times for each break. | Prayer Breaks: Designed to provide sufficient time for employees to perform prayers without interrupting workflow. | Adjustments: The exact timing of prayer breaks may be adjusted during the year to align with varying prayer times. | Supervisors’ Role: Supervisors are responsible for ensuring that the break schedule does not affect business operations. | . ",
     "url": "/timing-policy.html#break-guidelines",
     
     "relUrl": "/timing-policy.html#break-guidelines"
-  },"24": {
+  },"33": {
     "doc": "Office Timing Policy",
     "title": "Implementation",
     "content": ". | Employees should coordinate with their teams to ensure proper coverage during prayer and lunch breaks. | Managers are encouraged to support employees in utilizing these breaks appropriately. | . ",
     "url": "/timing-policy.html#implementation",
     
     "relUrl": "/timing-policy.html#implementation"
-  },"25": {
+  },"34": {
     "doc": "Office Timing Policy",
     "title": "Flexibility",
     "content": ". | Special Periods: Flexibility in break timings may be provided during specific periods (e.g., Ramadan) to accommodate longer prayer times or fasting needs. | Adjustments: Managers can make changes to the break schedule and must communicate these adjustments in advance to employees. | . ",
     "url": "/timing-policy.html#flexibility",
     
     "relUrl": "/timing-policy.html#flexibility"
-  },"26": {
+  },"35": {
     "doc": "Office Timing Policy",
     "title": "Compliance",
     "content": ". | All employees are expected to comply with the break timings to maintain a balance between personal and professional responsibilities. | Managers must ensure the policy is implemented fairly and equitably across all teams. | Managers, Leads, PMs, and the COO have the discretion to modify break timings as necessary. | . ",
     "url": "/timing-policy.html#compliance",
     
     "relUrl": "/timing-policy.html#compliance"
-  },"27": {
+  },"36": {
     "doc": "Office Timing Policy",
     "title": "Additional Notes",
     "content": ". | Prayer Time Alignment: Adjustments to prayer break timings will be made throughout the year to align with the exact prayer times. | Queries: If any team member has specific or unique queries, they are encouraged to reach out to the HR representative for assistance. | . This document has been approved and published by Texagon’s management. Updates or modifications may be made as needed, at the discretion of the management. ",

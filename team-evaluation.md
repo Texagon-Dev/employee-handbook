@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Team Evaluation & Feedback"
-nav_order: 4
+nav_order: 5
 ---
 
 # Texagon Team Evaluation Policy
