@@ -12,7 +12,7 @@ Texagon follows a structured technology stack to maintain consistency, security,
 
 ### Backend
 
-- **Python Framework**: FAST-API
+- **Python Framework**: FAST-API (with requirement.txt and PEP 8 Style Guidelines)
 - **TypeScript Framework**: NestJS (TypeScript over vanilla JavaScript)
 - **Package Manager**: Bun
 - **API Documentation**: Swagger is mandatory for all backend APIs
