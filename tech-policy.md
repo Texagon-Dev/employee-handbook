@@ -16,11 +16,14 @@ Texagon follows a structured technology stack to maintain consistency, security,
 - **TypeScript Framework**: NestJS (TypeScript over vanilla JavaScript)
 - **Package Manager**: Bun
 - **API Documentation**: Swagger is mandatory for all backend APIs
+- **Database**: Supabase
+- **Deployment**: Based on Docker releases.
 
 ### Frontend
 
 - **Framework**: Next.js - (Or any other suggested React-based framework)
 - **UI Libraries**: shadcn and the like are mandatory for UI components
+- **Deployment**: Based on Cloudflare Pages.
 
 ## 2. Development and Deployment Process
 
@@ -48,8 +51,8 @@ Texagon follows a structured three-stage deployment process:
 
 - **Secure Coding**: Security and all standard software development best practices are followed.
 - **Environment Variables**:
-  - Not stored in repositories.
-  - Managed via GitHub Actions secrets.
+  - Not stored in repositories (Except for clientside frontend).
+  - Managed via GitHub Actions secrets (DOTENV_FILE for staging and DOTENV_FILE_PROD for production).
   - Team collaboration on environment variables is handled through pinned threads on Slack inside relevant channel (internal channel) Thread name are the like of (e.g., Frontend Staging, Frontend Production, Backend Staging, Backend Production).
 
 ## 5. Repository Structure & Naming Conventions
