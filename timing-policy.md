@@ -16,8 +16,8 @@ This policy establishes clear working hours and ensures adequate provisions for 
 
 ## Office Hours
 
-- **Regular Working Hours:** 10:00 AM to 7:00 PM
-- **Total Work Duration:** 9 hours (including breaks)
+- **Regular Working Hours:** 9:00 AM to 5:00 PM
+- **Total Work Duration:** 8 hours (including breaks)
 
 ---
 
