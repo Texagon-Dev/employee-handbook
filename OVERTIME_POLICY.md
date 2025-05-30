@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Overtime - Policy"
+nav_order: 8
+---
+
 #  Texagon Overtime Policy
 
 At Texagon, we understand that some projects may occasionally require extra effort beyond regular working hours. To ensure fairness and transparency, all overtime must be approved in advance.
