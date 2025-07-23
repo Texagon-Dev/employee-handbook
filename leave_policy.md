@@ -70,6 +70,17 @@ Each team member is entitled to **8 paid sick leaves** per calendar year.
 
 ---
 
+- **Leave Request Procedure**:
+
+  - Every leave must be requested **at least one week in advance**; otherwise, it will not be approved.
+  - Leave requests made just one or two days prior will not be accepted, except in emergencies.
+  - Each team member must:
+    - **Email** their **HR** and **reporting manager** with the leave details.
+    - **Create a leave application** on the **ERP system**.
+    - Ensure that **manager approval is mandatory** for the leave to be processed.
+  - Leave will only be considered approved once the manager has approved it on ERP or confirmed it via email.
+
+
 ### Note
 
 These guidelines, policies, and procedures are designed to ensure consistency and fairness in all processes, ensuring that every active team member is treated equally in accordance with Texagon’s established policies. At Texagon, we are committed to maintaining a workplace free from discrimination, while implementing an efficient workflow system.
