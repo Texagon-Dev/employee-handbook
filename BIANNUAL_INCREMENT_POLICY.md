@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "BIANNUAL INCREMENT POLICY"
+title: "Biannual Increment Policy"
 nav_order: 9
 ---
 #  Texagon Biannual Increment Policy
