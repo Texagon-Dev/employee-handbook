@@ -27,20 +27,8 @@ To ensure productivity and accommodate personal needs, the following breaks will
 
 ### Lunch Break
 
-- **Duration:** 30 minutes
-- **Timing:** 1:00 PM to 1:30 PM
-
-### Prayer Breaks
-
-- **Zuhr Prayer Break:**
-
-  - **Duration:** 15 minutes
-  - **Timing:** Around 1:30 PM to 1:45 PM (adjustable based on prayer time)
-
-- **Asar Prayer Break:**
-
-  - **Duration:** 15 minutes
-  - **Timing:** Around 4:15 PM to 4:30 PM (adjustable based on prayer time)
+- **Duration:** 01 Hour
+- **Timing:** 1:00 PM to 2:00 PM
 
 ### **Friday Timings**
 - **Regular Working Hours:** 9:00 AM to 6:00 PM
