@@ -38,6 +38,14 @@ Employees are encouraged to report any information regarding violations of this 
 8. **Unacceptable Actions:**\
    While it is impossible to list every undesirable action, employees must use sensible judgment to avoid behaviors such as falsification, lying, defamation, omission of facts, disclosure of trade secrets, threatening others, verbal or physical abuse, long-term patterns of absenteeism or tardiness, possession of illegal items, and unauthorized access to documents or property.
 
+9. **Salary Confidentiality Policy:**\
+   Disclosure of your own or any colleague's salary is a **violation of company policy**. Breach of this policy may result in **disciplinary action**, up to and including **termination of employment**.
+
+We expect all team members to uphold the highest standards of confidentiality and professionalism at all times.
+
+Let's maintain a culture of trust, integrity, and respect.
+
+
 ## Reporting and Enforcement
 
 1. All employees must report observed violations of this code to the appropriate authority (management, HR, or direct supervisors).
