@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Work From Home Policy"
-nav_order: 3
+nav_order: 9
 ---
 # Work From Home (WFH) Policy
 
