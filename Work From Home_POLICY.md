@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Office Timing Policy"
+title: "Work From Home Policy"
 nav_order: 3
 ---
 # Work From Home (WFH) Policy
