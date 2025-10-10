@@ -4,20 +4,30 @@ title: "Office Timing Policy"
 nav_order: 2
 ---
 
-# Office Timing Policy
-
 ## Purpose
 
 This policy establishes clear working hours and ensures adequate provisions for lunch and prayer breaks during office hours to accommodate employees’ needs.
 
-**Policy Effective Date:** 1st February 2025
+**Policy Effective Date:** 13th Oct 2025
+# Office Timing Policy
+---
+
+## Winter Schedule  
+**Effective From:** October 2025  
+**Until:** February 2026  
+
+- **Monday to Thursday:** 10:00 AM to 6:00 PM  
+- **Friday:** 10:00 AM to 7:00 PM  
 
 ---
 
-## Office Hours
+## Summer Schedule  
+**Effective From:** 1st March 2026  
+**Until:** October 2026  
 
-- **Regular Working Hours:** 9:00 AM to 5:00 PM
-- **Total Work Duration:** 8 hours (including breaks)
+- **Monday to Thursday:** 9:00 AM to 5:00 PM  
+- **Friday:** 9:00 AM to 6:00 PM  
+
 
 ---
 
@@ -30,10 +40,7 @@ To ensure productivity and accommodate personal needs, the following breaks will
 - **Duration:** 01 Hour
 - **Timing:** 1:00 PM to 2:00 PM
 
-### **Friday Timings**
-- **Regular Working Hours:** 9:00 AM to 6:00 PM
-- **Total Work Duration:** 9 hours (including breaks)
-### Lunch and Namaz Break 
+### **Friday Break**
 
 - **Duration:** 1.5 hours
 - **Timing:** 1:00 PM to 2:30 PM
