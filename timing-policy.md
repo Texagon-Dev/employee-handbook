@@ -16,8 +16,7 @@ This policy establishes clear working hours and ensures adequate provisions for 
 **Effective From:** October 2025  
 **Until:** February 2026  
 
-- **Monday to Thursday:** 10:00 AM to 6:00 PM  
-- **Friday:** 10:00 AM to 7:00 PM  
+- **Monday to Friday:** 10:00 AM to 6:00 PM  
 
 ---
 
@@ -25,8 +24,7 @@ This policy establishes clear working hours and ensures adequate provisions for 
 **Effective From:** 1st March 2026  
 **Until:** October 2026  
 
-- **Monday to Thursday:** 9:00 AM to 5:00 PM  
-- **Friday:** 9:00 AM to 6:00 PM  
+- **Monday to Friday:** 9:00 AM to 5:00 PM   
 
 
 ---
@@ -40,10 +38,16 @@ To ensure productivity and accommodate personal needs, the following breaks will
 - **Duration:** 01 Hour
 - **Timing:** 1:00 PM to 2:00 PM
 
-### **Friday Break**
+# Friday Break
 
-- **Duration:** 1.5 hours
-- **Timing:** 1:00 PM to 2:30 PM
+
+Friday break will be from **1:00 PM to 2:15 PM**.
+
+
+You may offer your Friday prayer at **Gulberg Police Station Masjid** or in the **park**.
+
+
+The namaz timing there will be **1:30 PM to 1:45 PM**.
 
 ---
 
