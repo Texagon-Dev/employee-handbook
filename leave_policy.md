@@ -12,10 +12,10 @@ We trust our team to act responsibly and be accountable for their actions. Leave
 
 - **Paid Leaves**:
 
-  - Each full-time employee is entitled to **5 paid casual leaves** and **8 paid sick leaves** per calendar year.
+  - Each full-time employee is entitled to **8 paid casual leaves** and **10 paid sick leaves** per calendar year.
   - The calendar year for all leave categories runs from January to December.
-  - **Casual leaves** are accrued on a pro-rata basis, at **0.42 days per month** (calculated as 5 days divided by 12 months).
-  - **Sick leaves** are accrued on a pro-rata basis, at **0.67 days per month** (calculated as 8 days divided by 12 months).
+  - **Casual leaves** are accrued on a pro-rata basis, at **0.5 days per month**.
+  - **Sick leaves** are accrued on a pro-rata basis, at **1 days per month**.
   - Leave entitlement is calculated based on the month and date of employment start within the given year.
   - **Leaves do not carry over** to the next year.
 
@@ -39,9 +39,9 @@ We trust our team to act responsibly and be accountable for their actions. Leave
 
 ### a. Casual Leaves
 
-Each team member is entitled to **5 paid casual leaves** per calendar year, to be used for emergencies or unforeseen circumstances.
+Each team member is entitled to **8 paid casual leaves** per calendar year, to be used for emergencies or unforeseen circumstances.
 
-- Casual leaves are accrued on a pro-rata basis, meaning **0.42 days per month** (calculated as 5 days divided by 12 months).
+- Casual leaves are accrued on a pro-rata basis, meaning **0.5 days per month**.
 - Casual leave requests must be submitted **via email** with **at least one full day’s notice** or before the workday begins.
 - For leave longer than one day, requests should be made **at least two weeks in advance**.
 - Proof of the emergency or circumstance is required to approve leave.
@@ -52,9 +52,9 @@ Each team member is entitled to **5 paid casual leaves** per calendar year, to b
 
 ### b. Sick Leaves
 
-Each team member is entitled to **8 paid sick leaves** per calendar year.
+Each team member is entitled to **10 paid sick leaves** per calendar year.
 
-- Sick leaves are accrued on a pro-rata basis, meaning **0.67 days per month** (calculated as 8 days divided by 12 months).
+- Sick leaves are accrued on a pro-rata basis, meaning **01 days per month**.
 - Sick leave requests must be submitted **via email** at least one full day before the leave or by **08:00 AM on the day of absence**.
 - If three or more sick days are requested, a **doctor’s note** is required.
 - Failure to provide necessary documentation may result in **unpaid leave** or denial of the request.
