@@ -29,6 +29,16 @@ This policy establishes clear working hours and ensures adequate provisions for 
 
 ---
 
+## Ramzan Ul Mubarak Schedule  
+**Effective From:** 19th Feb 2026  
+**Until:** End of Ramzan ul Mubarak Month  
+
+- **Monday to Friday:** 9:00 AM to 3:00 PM
+- **Break for Namaz e Zohar:** 1:00 PM to 1:15 PM 
+
+
+---
+
 ## Break Schedule
 
 To ensure productivity and accommodate personal needs, the following breaks will be observed:
